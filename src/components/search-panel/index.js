@@ -1,3 +1,3 @@
-import AppHeader from './app-header'
+import SearchPanel from './search-panel';
 
-export default AppHeader
+export default SearchPanel;
